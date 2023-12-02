@@ -132,3 +132,5 @@ class Solution151:
         self.reverse_each_word(l)
 
         return ''.join(l)
+
+# try new test
